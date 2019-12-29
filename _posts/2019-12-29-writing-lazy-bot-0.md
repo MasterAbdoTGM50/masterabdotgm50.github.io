@@ -47,6 +47,10 @@ Hmmm... probably 3 things
 
 <br>
 
-Thanks for reading this silly blog post. The next one will probably be a month from now and it will discuss how the search algorithm of the bot currently works (if it can even be called an algorithm) and how the new one will be and all the challenges along that.
+## To end your suffering
+
+In the end I do thank everyone who even slightly encouraged the idea of making a new bot and pushed me into it (Dramatic way of writing it :P) and I do thank teddybee_r for his work on [gwent.one](gwent.one) and the help he provided. Big thanks are also due to Jemoni and Mortin for testing and maitaning the bot in my absence.
+
+And lastly thanks to you dear reader for reading this silly blog post. The next one will probably be a month from now and it will discuss how the search algorithm of the bot currently works (if it can even be called an algorithm) and how the new one will be and all the challenges along that.
 
 Do share your feedback since I do know I'm a very bad writer :P
