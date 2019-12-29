@@ -1,0 +1,10 @@
+title: Fort Rose
+email: masterabdotgm50@ymail.com
+description: >-
+  A haven for Abdo's lunacy, idiocy and ramblings. Oh! and sometimes some useful stuff and tutorials :P
+baseurl: ""
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
